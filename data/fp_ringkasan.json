@@ -1,0 +1,28 @@
+{
+  "total_kejadian": 7721570,
+  "jumlah_negara_bagian": 49,
+  "periode": "Februari 2016 \u2013 Maret 2023",
+  "proporsi_parah": 0.1946,
+  "model": {
+    "algoritma": "HistGradientBoostingClassifier (max_iter=250, max_depth=8)",
+    "auc_roc": 0.8155,
+    "auc_pr": 0.5237,
+    "prevalensi": 0.1948,
+    "lift": 2.69,
+    "n_train": 1201142,
+    "n_test": 300286,
+    "waktu_latih_detik": 24.9
+  },
+  "graph": {
+    "engine": "GraphFrames (Spark, terdistribusi)",
+    "negara_bagian": "CA",
+    "jumlah_node": 9885,
+    "jumlah_edge": 54889,
+    "jumlah_komunitas": 1199,
+    "jumlah_komponen": 521,
+    "lima_komunitas_terbesar_ruas": 448,
+    "lima_komunitas_terbesar_kejadian": 152802
+  },
+  "negara_bagian_teratas": "CA",
+  "negara_bagian_teratas_jumlah": 1741307
+}

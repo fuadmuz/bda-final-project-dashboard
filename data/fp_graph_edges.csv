@@ -1,0 +1,566 @@
+src,dst,weight
+Whittier|I-605 N,Whittier|San Gabriel River Fwy N,13
+San Jose|Bayshore Fwy N,San Jose|I-280 S,2
+Modesto|CA-99 N,Modesto|CA-99 S,15
+Sacramento|CA-16 W,Sacramento|US-50,6
+Sacramento|CA-16 E,Sacramento|Capital City Fwy E,1
+Sacramento| Auburn Blvd,Sacramento|Capital City Fwy E,7
+Sacramento| Auburn Blvd,Sacramento|I-80 E,3
+San Diego|CA-163 N,San Diego|I-8 E,2
+San Diego|I-5,San Diego|I-8 E,2
+San Diego|CA-163,San Diego|I-805 S,1
+San Diego|CA-163,San Diego|I-15,1
+Escondido|Escondido Fwy S,San Diego|Escondido Fwy S,1
+Riverside|I-215,Riverside|Riverside Fwy E,1
+Los Angeles|I-5 N,Los Angeles|I-5 S,14
+Sacramento| Stockton Blvd,Sacramento|CA-99 N,3
+Sacramento|US-50,Sacramento|Watt Ave,1
+Sacramento|Capital City Fwy E,Sacramento|Roseville Rd,2
+Sacramento|I-5 N,Sacramento|I-80,2
+San Diego|CA-15 S,San Diego|I-5 S,2
+Los Angeles|I-10 W,Los Angeles|S La Cienega Blvd,3
+San Jose|Guadalupe Pkwy,San Jose|Norman Y Mineta Hwy,1
+Los Angeles|I-10 W,Los Angeles|Venice Blvd,7
+San Diego|I-805,San Diego|I-805 S,32
+Anaheim|CA-91 E,Corona|CA-91,1
+Corona|CA-91 E,Riverside|CA-91,1
+Bakersfield|CA-99 N,Bakersfield|CA-99 S,51
+Bakersfield|CA-58 E,Bakersfield|CA-58 W,24
+Fresno|CA-41 N,Fresno|CA-41 S,19
+San Jose|Bayshore Fwy N,San Jose|Sinclair Fwy N,2
+Redwood City|I-280 S,San Mateo|CA-92 W,1
+San Rafael|Redwood Hwy,San Rafael|US-101 S,12
+Sacramento| Stockton Blvd,Sacramento|CA-99,1
+Sacramento| Auburn Blvd,Sacramento|Capital City Fwy W,7
+Sacramento|CA-16 E,Sacramento|CA-99 N,2
+San Diego|CA-15 S,San Diego|Escondido Fwy S,6
+San Diego|I-15 N,San Diego|I-8 W,1
+San Diego|CA-15 S,San Diego|I-8 E,1
+San Diego|CA-163,San Diego|Escondido Fwy S,1
+Escondido|I-15 N,San Diego|I-15 N,1
+Riverside|CA-91 W,Riverside|I-215 S,3
+San Jose|Guadalupe Pkwy,San Jose|I-280 N,2
+San Diego|I-5 S,San Diego|San Diego Fwy S,26
+Riverside|CA-91,Riverside|CA-91 W,25
+Los Angeles|I-10 E,Los Angeles|I-405 S,1
+Sacramento|CA-99 N,Sacramento|CA-99 S,19
+San Diego|Escondido Fwy N,San Diego|I-805 N,1
+San Diego|CA-163 N,San Diego|Escondido Fwy S,2
+Escondido|I-15,San Diego|Escondido Fwy S,1
+Fresno|CA-41 S,Fresno|CA-99 N,3
+San Diego|Escondido Fwy S,San Diego|I-15 N,35
+Escondido|Escondido Fwy N,Escondido|I-15 N,22
+Anaheim|CA-91 W,Corona|CA-91 W,1
+San Bernardino|I-215 N,San Bernardino|I-215 S,20
+Fresno|CA-180,Fresno|CA-180 W,21
+San Jose|US-101,San Jose|US-101 N,24
+San Diego|CA-15 S,San Diego|I-5,2
+San Diego|I-8 W,San Diego|San Diego Fwy S,2
+Escondido|I-15,San Diego|Escondido Fwy N,1
+Fresno|CA-41 N,Fresno|CA-99 S,3
+Sacramento|Capital City Fwy W,Sacramento|Watt Ave,1
+San Diego|I-805 N,San Diego|Kumeyaay Hwy,1
+Corona|CA-91,Corona|CA-91 W,20
+Los Angeles|CA-134 E,Los Angeles|I-5 N,2
+Fresno|CA-180 W,Fresno|CA-41 N,1
+Fresno|CA-180 W,Fresno|CA-41,1
+Sacramento|CA-16 E,Sacramento|Capital City Fwy W,1
+Sacramento| Florin Rd,Sacramento|I-5 N,1
+Escondido|Escondido Fwy S,San Diego|I-15,1
+San Diego|I-5,San Diego|John J Montgomery Fwy S,13
+Corona|CA-91,Riverside|CA-91 E,1
+Whittier|I-605,Whittier|San Gabriel River Fwy N,10
+Bakersfield|CA-58 W,Bakersfield|CA-99 S,4
+Fresno|CA-41,Fresno|CA-41 S,21
+Sacramento|CA-16 W,Sacramento|I-5,21
+Sacramento|I-80,Sacramento|I-80 W,22
+Sacramento|I-5,Sacramento|I-80 E,1
+San Diego|I-15 N,San Diego|I-8 E,1
+Los Angeles| S Vermont Ave,Los Angeles|I-10 W,1
+Fresno|CA-41 N,Fresno|CA-99,2
+Riverside|CA-60 W,Riverside|I-215 N,14
+Riverside|CA-60 E,Riverside|I-215 S,11
+Los Angeles|CA-134 W,Los Angeles|I-5 N,2
+Fresno|CA-180 E,Fresno|CA-41 N,1
+Sacramento|CA-16 E,Sacramento|CA-16 W,31
+Sacramento|CA-99 S,Sacramento|I-80 W,2
+Escondido|I-15,San Diego|I-15 N,1
+Los Angeles| S Vermont Ave,Los Angeles|I-10 E,1
+Sacramento|I-80 E,Sacramento|Watt Ave,1
+Sacramento|CA-99 S,Sacramento|Florin Rd,2
+Anaheim|CA-91 E,Corona|CA-91 W,1
+Los Angeles|I-405,Los Angeles|San Diego Fwy S,17
+Los Angeles|I-10 W,Los Angeles|I-405,1
+Los Angeles|Golden State Fwy N,Los Angeles|Golden State Fwy S,16
+Fresno|CA-180,Fresno|CA-41 N,1
+San Jose|Bayshore Fwy N,San Jose|US-101,25
+San Jose|Bayshore Fwy N,San Jose|Guadalupe Pkwy,2
+San Diego|CA-163,San Diego|San Diego Fwy S,2
+Los Angeles|I-405,Los Angeles|S La Cienega Blvd,1
+Riverside|CA-60 W,Riverside|CA-91 W,2
+Riverside|I-215 N,Riverside|I-215 S,18
+San Bernardino|CA-210 E,San Bernardino|CA-210 W,14
+Los Angeles|CA-134 W,Los Angeles|Golden State Fwy N,3
+Oakland|I-580,Oakland|I-580 E,21
+Sacramento|CA-99 S,Sacramento|US-50,1
+San Diego|Escondido Fwy N,San Diego|Escondido Fwy S,39
+San Diego|I-805 N,San Diego|San Diego Fwy S,3
+Fresno|CA-180,Fresno|CA-180 E,20
+Fresno|CA-180,Fresno|CA-99,2
+San Jose|Bayshore Fwy S,San Jose|US-101 N,24
+Sacramento|Capital City Fwy E,Sacramento|Capital City Fwy W,19
+Sacramento|CA-16 W,Sacramento|CA-99 S,16
+San Diego|CA-15 S,San Diego|I-8 W,1
+San Jose|Norman Y Mineta Hwy,San Jose|US-101,1
+San Jose|Guadalupe Pkwy,San Jose|I-280,2
+Livermore|I-580,Tracy|I-580 E,3
+Riverside|CA-60 W,Riverside|I-215,10
+Fresno|CA-180 W,Fresno|CA-99,2
+San Jose|Bayshore Fwy S,San Jose|Sinclair Fwy N,2
+Sacramento|CA-99 S,Sacramento|I-80 E,2
+Bakersfield|Bakersfield Tehachapi Hwy,Bakersfield|CA-99 N,1
+San Diego|John J Montgomery Fwy S,San Diego|San Diego Fwy S,1
+Whittier|I-605 N,Whittier|I-605 S,12
+Escondido|Escondido Fwy S,San Diego|Escondido Fwy N,1
+Los Angeles|I-10 E,Los Angeles|S La Cienega Blvd,3
+Los Angeles| S Western Ave,Los Angeles|I-10 W,1
+San Jose|Bayshore Fwy S,San Jose|I-280 N,1
+Los Angeles|I-405 S,Los Angeles|San Diego Fwy S,18
+Los Angeles|I-10 W,Los Angeles|I-5 S,1
+San Bernardino|CA-210,San Bernardino|I-215 N,2
+Los Angeles|CA-134 E,Los Angeles|Golden State Fwy S,3
+North Hollywood|CA-170 N,North Hollywood|CA-170 S,10
+San Diego|Escondido Fwy S,San Diego|I-805,1
+San Diego|I-5 N,San Diego|I-8 W,2
+San Diego|CA-163,San Diego|I-805,1
+Escondido|Escondido Fwy N,San Diego|Escondido Fwy S,1
+Riverside|CA-60 E,Riverside|Riverside Fwy E,1
+Corona|CA-91 E,Riverside|CA-91 W,1
+Bakersfield|CA-58 E,Bakersfield|CA-99,4
+Oakland|I-580 E,Oakland|I-580 W,22
+Stockton|CA-99 N,Stockton|CA-99 S,22
+Santa Rosa|Redwood Hwy N,Santa Rosa|US-101 N,22
+Sacramento|CA-99 N,Sacramento|Capital City Fwy E,1
+Sacramento|I-80,Sacramento|I-80 E,21
+Riverside|CA-60 E,Riverside|CA-60 W,15
+Riverside|CA-91 W,Riverside|I-215 N,3
+Los Angeles|I-405 N,Los Angeles|San Diego Fwy S,18
+San Bernardino|CA-210 W,San Bernardino|I-215,2
+Sacramento|Auburn Blvd,Sacramento|Capital City Fwy W,7
+Sacramento|CA-16 W,Sacramento|I-80 E,2
+San Diego|CA-15 S,San Diego|I-15,2
+San Diego|CA-163 N,San Diego|I-15 N,2
+Riverside|CA-91,Riverside|I-215,2
+Los Angeles| S Western Ave,Los Angeles|I-10 E,1
+San Diego|I-805,San Diego|Kumeyaay Hwy,1
+San Diego|CA-163 N,San Diego|I-805 S,2
+Corona|CA-91 W,Riverside|Riverside Fwy E,1
+Los Angeles|I-5,Los Angeles|I-5 N,23
+Los Angeles|I-10 W,Los Angeles|San Diego Fwy S,1
+San Bernardino|Barstow Fwy S,San Bernardino|CA-210 W,2
+Los Angeles|CA-134 E,Los Angeles|CA-134 W,13
+Bakersfield|CA-99,Bakersfield|CA-99 N,43
+Bakersfield|Bakersfield Tehachapi Hwy,Bakersfield|CA-58 E,22
+Sacramento|I-5 N,Sacramento|I-80 E,2
+Escondido|Escondido Fwy N,San Diego|I-15,1
+Riverside|CA-60 E,Riverside|CA-91 E,2
+Sacramento| Florin Rd,Sacramento|CA-99,1
+San Diego|I-5 N,San Diego|I-5 S,44
+San Diego|I-8 W,San Diego|I-805 N,1
+Anaheim|CA-91,Anaheim|CA-91 W,23
+Los Angeles|Golden State Fwy S,Los Angeles|I-10 W,1
+Los Angeles|Golden State Fwy S,Los Angeles|I-5,15
+Covina| E Arrow Hwy,Covina|E Arrow Hwy,8
+Bakersfield|CA-58 W,Bakersfield|CA-99 N,4
+Fairfield|I-80 E,Fairfield|I-80 W,21
+Sacramento|CA-16 W,Sacramento|Capital City Fwy W,1
+San Diego|CA-163,San Diego|I-15 N,1
+Los Angeles| S Vermont Ave,Los Angeles|Venice Blvd,1
+Escondido|Escondido Fwy N,Escondido|I-15,22
+Anaheim|CA-91 W,Corona|CA-91 E,1
+Los Angeles|Golden State Fwy N,Los Angeles|I-10 W,1
+San Bernardino|Barstow Fwy S,San Bernardino|I-215 S,19
+Stockton|CA-99,Stockton|CA-99 N,19
+San Diego|CA-15 S,San Diego|John J Montgomery Fwy S,2
+San Diego|CA-163,San Diego|I-8 E,2
+Sacramento| Stockton Blvd,Sacramento|US-50,1
+San Jose|Guadalupe Pkwy,San Jose|I-280 S,1
+San Diego|CA-15 S,San Diego|I-805 S,2
+Long Beach|I-405,Long Beach|San Diego Fwy S,18
+Anaheim|CA-91 E,Anaheim|Riverside Fwy E,35
+Corona|CA-91 W,Riverside|CA-91 W,1
+Corona|CA-91 E,Riverside|Riverside Fwy E,1
+Bakersfield|CA-58 E,Bakersfield|CA-99 S,4
+Fresno|CA-41,Fresno|CA-41 N,20
+San Jose|I-280,San Jose|Sinclair Fwy N,12
+San Jose|I-280,San Jose|US-101,2
+San Jose|Bayshore Fwy S,San Jose|I-280,2
+San Diego|CA-15 S,San Diego|I-5 N,2
+Riverside|CA-60 W,Riverside|CA-91 E,2
+Sacramento| Florin Rd,Sacramento|CA-99 N,2
+San Diego|I-5,San Diego|I-5 N,45
+Anaheim|CA-91,Anaheim|Riverside Fwy E,28
+Corona|CA-91,Riverside|Riverside Fwy E,1
+Los Angeles|I-10 E,Los Angeles|I-405,1
+North Hollywood|CA-170,North Hollywood|CA-170 S,10
+San Diego|I-5 S,San Diego|I-8 W,2
+San Diego|I-5 N,San Diego|I-805 S,1
+San Diego|I-5,San Diego|I-805,1
+Corona|CA-91,Corona|I-15 N,2
+Corona|CA-91 W,Riverside|CA-91 E,1
+Stockton|CA-4,Stockton|CA-99,2
+Santa Rosa|US-101,Santa Rosa|US-101 N,15
+San Diego|I-5,San Diego|I-805 S,1
+Los Angeles|S La Cienega Blvd,Los Angeles|San Diego Fwy S,1
+Los Angeles| S Central Ave,Los Angeles|I-10 E,1
+San Bernardino|CA-210 W,San Bernardino|I-215 S,2
+Fresno|CA-99,Fresno|CA-99 S,27
+San Jose|I-280,San Jose|I-280 N,17
+San Diego|Kumeyaay Hwy,San Diego|San Diego Fwy S,2
+Sacramento| Stockton Blvd,Sacramento|Florin Rd,1
+San Diego|CA-15 S,San Diego|I-805 N,2
+Redlands|I-10,Redlands|I-10 W,20
+San Bernardino|Barstow Fwy N,San Bernardino|Barstow Fwy S,33
+Fresno|CA-180,Fresno|CA-99 S,2
+San Diego|CA-163,San Diego|Escondido Fwy N,1
+San Diego|I-805,San Diego|San Diego Fwy S,1
+Los Angeles|I-5,Los Angeles|I-5 S,13
+Los Angeles|I-10 E,Los Angeles|San Diego Fwy S,1
+Los Angeles|E Washington Blvd,Los Angeles|I-5 N,2
+North Hollywood|CA-170 N,North Hollywood|Hollywood Fwy N,10
+Fresno|CA-99 N,Fresno|CA-99 S,33
+Fresno|CA-180 E,Fresno|CA-99 N,2
+San Jose|Bayshore Fwy N,San Jose|I-280,2
+Sacramento|CA-99 S,Sacramento|Stockton Blvd,3
+Sacramento|CA-16 W,Sacramento|I-80,2
+San Diego|Escondido Fwy N,San Diego|Kumeyaay Hwy,1
+Riverside|CA-60 E,Riverside|CA-91,1
+San Diego|I-5 N,San Diego|I-805 N,5
+Los Angeles|CA-110 N,Los Angeles|Golden State Fwy S,1
+San Bernardino|Barstow Fwy N,San Bernardino|I-215 N,16
+Los Angeles|CA-134 W,Los Angeles|Golden State Fwy S,3
+North Hollywood|CA-170,North Hollywood|Hollywood Fwy N,10
+Sacramento|CA-16 E,Sacramento|I-80 E,2
+San Diego|CA-163 N,San Diego|I-805 N,2
+Escondido|I-15,Escondido|I-15 N,19
+Los Angeles|I-405,Los Angeles|Venice Blvd,1
+San Jose|I-280 S,San Jose|Sinclair Fwy N,11
+Fairfield|I-80,Fairfield|I-80 E,19
+Sacramento|CA-16 W,Sacramento|Capital City Fwy E,1
+Escondido|Escondido Fwy S,San Diego|I-15 N,1
+Riverside|CA-60 E,Riverside|CA-91 W,2
+Los Angeles| S Central Ave,Los Angeles|I-10 W,1
+Los Angeles|E Washington Blvd,Los Angeles|S Central Ave,1
+Sacramento|CA-16 W,Sacramento|Stockton Blvd,1
+Redlands|I-10,Redlands|I-10 E,20
+Los Angeles|I-10 E,Los Angeles|I-10 W,23
+San Bernardino|Barstow Fwy N,San Bernardino|I-215,15
+San Bernardino|Barstow Fwy S,San Bernardino|CA-210 E,2
+Los Angeles|CA-134 E,Los Angeles|Golden State Fwy N,3
+Bakersfield|CA-58 W,Bakersfield|CA-99,4
+Fresno|CA-180 W,Fresno|CA-99 N,2
+Fresno|CA-180 W,Fresno|CA-99 S,2
+Merced|CA-99,Merced|CA-99 N,15
+San Rafael|US-101,San Rafael|US-101 S,11
+Sacramento|CA-99,Sacramento|Capital City Fwy W,1
+Sacramento|Capital City Fwy E,Sacramento|US-50,3
+Sacramento|I-5,Sacramento|I-80 W,1
+Sacramento|CA-16 E,Sacramento|I-5,21
+Riverside|CA-91,Riverside|I-215 S,2
+Sacramento| Florin Rd,Sacramento|Stockton Blvd,1
+Anaheim|CA-91,Anaheim|CA-91 E,28
+Stockton|CA-99,Stockton|CA-99 S,20
+San Bernardino|Barstow Fwy N,San Bernardino|CA-210 W,2
+San Diego|Escondido Fwy N,San Diego|I-805 S,1
+San Diego|CA-163,San Diego|Kumeyaay Hwy,1
+Escondido|I-15,San Diego|I-15,1
+San Diego|I-805,San Diego|I-805 N,32
+Los Angeles|I-10 E,Los Angeles|I-405 N,1
+Los Angeles|Golden State Fwy S,Los Angeles|I-5 N,15
+Santa Rosa|Redwood Hwy N,Santa Rosa|US-101,15
+San Diego|I-15 N,San Diego|Kumeyaay Hwy,1
+Los Angeles|I-405 N,Los Angeles|S La Cienega Blvd,1
+San Diego|I-805 N,San Diego|I-805 S,35
+San Diego|Escondido Fwy S,San Diego|I-15,32
+Riverside|CA-60 W,Riverside|I-215 S,12
+Whittier|I-605,Whittier|I-605 S,10
+Los Angeles|Golden State Fwy N,Los Angeles|I-5 S,6
+San Diego|CA-163 N,San Diego|I-5 N,2
+San Diego|Escondido Fwy S,San Diego|I-8 E,1
+Escondido|Escondido Fwy N,San Diego|Escondido Fwy N,1
+Los Angeles|S La Cienega Blvd,Los Angeles|Venice Blvd,1
+Sacramento| Stockton Blvd,Sacramento|CA-16 E,1
+San Bernardino|I-215,San Bernardino|I-215 S,19
+Los Angeles|US-101,Los Angeles|US-101 N,15
+Los Angeles|Hollywood Fwy S,Los Angeles|US-101 N,15
+San Bernardino|CA-210 E,San Bernardino|I-215 S,2
+Sacramento|CA-99,Sacramento|Stockton Blvd,1
+Sacramento|CA-16 W,Sacramento|I-5 N,21
+Los Angeles|I-405 S,Los Angeles|S La Cienega Blvd,1
+Riverside|CA-91 E,Riverside|I-215 N,2
+Bakersfield|Bakersfield Tehachapi Hwy,Bakersfield|CA-99,1
+Fresno|CA-41,Fresno|CA-99 S,3
+Sacramento| Auburn Blvd,Sacramento|Watt Ave,1
+San Diego|I-5 S,San Diego|John J Montgomery Fwy S,13
+Corona|CA-91,Corona|CA-91 E,20
+San Bernardino|Barstow Fwy S,San Bernardino|I-215,15
+North Hollywood|CA-170,North Hollywood|CA-170 N,10
+Fresno|CA-180 E,Fresno|CA-180 W,20
+San Jose|Bayshore Fwy S,San Jose|I-280 S,2
+San Diego|Escondido Fwy S,San Diego|I-805 N,1
+San Diego|I-5 S,San Diego|I-805 S,1
+Los Angeles| S Alameda St,Los Angeles|I-10 E,1
+Long Beach|I-405 S,Long Beach|San Diego Fwy S,18
+Los Angeles|Golden State Fwy N,Los Angeles|I-5,15
+San Bernardino|CA-210,San Bernardino|CA-210 E,14
+San Bernardino|CA-210 E,San Bernardino|I-215,2
+San Bernardino|CA-210,San Bernardino|I-215 S,2
+Los Angeles|CA-134 E,Los Angeles|I-5,2
+San Jose|I-280,San Jose|I-280 S,17
+Stockton|CA-4,Stockton|CA-99 S,2
+Vallejo|I-80 E,Vallejo|I-80 W,12
+Sacramento| Auburn Blvd,Sacramento|Auburn Blvd,15
+Sacramento|Capital City Fwy W,Sacramento|Roseville Rd,3
+Sacramento|CA-16 W,Sacramento|I-80 W,2
+San Diego|I-8 E,San Diego|San Diego Fwy S,2
+Riverside|I-215,Riverside|I-215 S,13
+Los Angeles|I-10 W,Los Angeles|I-5 N,1
+Los Angeles|Golden State Fwy S,Los Angeles|I-5 S,6
+Bakersfield|CA-58 E,Bakersfield|CA-99 N,4
+Fresno|CA-180 E,Fresno|CA-99 S,2
+Sacramento|CA-99 S,Sacramento|Capital City Fwy E,2
+Sacramento|Florin Rd,Sacramento|I-5 N,1
+Sacramento|I-80 E,Sacramento|I-80 W,24
+Oakland|I-880,Oakland|I-880 N,21
+San Diego|Escondido Fwy S,San Diego|I-805 S,1
+San Diego|I-15,San Diego|Kumeyaay Hwy,1
+San Diego|Escondido Fwy N,San Diego|I-15 N,37
+Whittier|I-605 S,Whittier|San Gabriel River Fwy N,12
+Fresno|CA-180,Fresno|CA-99 N,2
+San Jose|I-280 S,San Jose|US-101,2
+San Francisco|James Lick Fwy N,San Francisco|US-101,8
+Sacramento|Florin Rd,Sacramento|I-5,1
+San Diego|I-8 E,San Diego|Kumeyaay Hwy,17
+San Bernardino|CA-210,San Bernardino|I-215,2
+Sacramento| Florin Rd,Sacramento|I-5,1
+Sacramento|Capital City Fwy W,Sacramento|I-80 E,2
+Escondido|Escondido Fwy N,San Diego|I-15 N,1
+Sacramento|CA-99,Sacramento|Florin Rd,1
+San Diego|CA-15 S,San Diego|I-805,2
+Corona|CA-91 E,Corona|CA-91 W,20
+San Jose|I-280 N,San Jose|Sinclair Fwy N,11
+Santa Rosa|Redwood Hwy S,Santa Rosa|US-101,15
+Sacramento|I-5,Sacramento|I-5 N,28
+Sacramento|Auburn Blvd,Sacramento|Capital City Fwy E,7
+Riverside|CA-91 W,Riverside|Riverside Fwy E,24
+Los Angeles|CA-110 N,Los Angeles|I-5,1
+Sacramento|CA-99 S,Sacramento|I-5,14
+Sacramento|I-5,Sacramento|I-80,1
+San Diego|Escondido Fwy S,San Diego|Kumeyaay Hwy,1
+Sacramento|CA-99 N,Sacramento|Florin Rd,2
+Long Beach|I-405 N,Long Beach|I-405 S,18
+Santa Barbara|US-101 N,Santa Barbara|US-101 S,26
+Bakersfield|Bakersfield Tehachapi Hwy,Bakersfield|CA-99 S,1
+Sacramento| Florin Rd,Sacramento| Stockton Blvd,1
+Sacramento|Auburn Blvd,Sacramento|Watt Ave,1
+San Diego|I-5 S,San Diego|I-805 N,4
+Anaheim|CA-91 E,Corona|CA-91 E,1
+Los Angeles|CA-110 N,Los Angeles|I-5 S,1
+Palmdale|Antelope Valley Fwy N,Palmdale|Antelope Valley Fwy S,17
+Santa Rosa|Redwood Hwy S,Santa Rosa|US-101 N,18
+Sacramento|CA-16 E,Sacramento|US-50,5
+Sacramento|Auburn Blvd,Sacramento|I-80 E,3
+San Diego|I-5 N,San Diego|I-8 E,2
+Fresno|CA-180 W,Fresno|CA-41 S,1
+Fresno|CA-180,Fresno|CA-41 S,1
+Fresno|CA-180 E,Fresno|CA-41 S,1
+San Jose|Bayshore Fwy S,San Jose|US-101,26
+Sacramento|Capital City Fwy W,Sacramento|US-50,3
+San Diego|Escondido Fwy N,San Diego|I-805,1
+San Diego|I-15,San Diego|I-8 E,1
+Sacramento|Capital City Fwy E,Sacramento|Watt Ave,1
+Riverside|CA-91,Riverside|Riverside Fwy E,24
+Bakersfield|CA-99,Bakersfield|CA-99 S,39
+Riverside|CA-91 W,Riverside|I-215,3
+Riverside|CA-91 E,Riverside|I-215,2
+Fresno|CA-41 S,Fresno|CA-99 S,3
+San Jose|I-280,San Jose|US-101 N,2
+Modesto|CA-99,Modesto|CA-99 S,13
+Oakland|I-580,Oakland|I-580 W,22
+San Rafael|Redwood Hwy,San Rafael|US-101,11
+Sacramento|CA-99,Sacramento|CA-99 S,15
+Sacramento| Florin Rd,Sacramento|Florin Rd,21
+Sacramento|CA-99 N,Sacramento|I-5 N,2
+San Diego|CA-163,San Diego|I-5,2
+San Diego|Escondido Fwy N,San Diego|I-15,32
+Riverside|CA-60 E,Riverside|I-215 N,12
+Ontario|I-10 E,Ontario|I-10 W,19
+San Bernardino|Barstow Fwy S,San Bernardino|CA-210,2
+Sacramento|CA-16 E,Sacramento|CA-99 S,16
+San Diego|Escondido Fwy S,San Diego|I-8 W,1
+Los Angeles|I-10 E,Los Angeles|Venice Blvd,7
+Fresno|CA-41 S,Fresno|CA-99,2
+San Bernardino|CA-210 E,San Bernardino|I-215 N,2
+San Bernardino|Barstow Fwy N,San Bernardino|CA-210,2
+San Jose|Bayshore Fwy N,San Jose|US-101 N,24
+Sacramento|CA-99,Sacramento|CA-99 N,14
+Sacramento| Stockton Blvd,Sacramento|Stockton Blvd,14
+San Diego|CA-163,San Diego|I-5 S,2
+San Diego|CA-163,San Diego|I-8 W,1
+San Diego|I-8 W,San Diego|I-805,1
+Anaheim|CA-91 W,Corona|CA-91,1
+Pasadena|Foothill Fwy E,Pasadena|Foothill Fwy W,12
+Santa Barbara|US-101,Santa Barbara|US-101 S,24
+San Jose|Guadalupe Pkwy,San Jose|US-101 N,2
+Modesto|CA-99,Modesto|CA-99 N,12
+San Diego|I-8 W,San Diego|Kumeyaay Hwy,17
+San Diego|I-8 E,San Diego|I-805,1
+Sacramento|Capital City Fwy E,Sacramento|I-80 E,2
+San Diego|CA-163 N,San Diego|San Diego Fwy S,2
+Los Angeles|I-10 E,Los Angeles|S Central Ave,1
+San Diego|I-8 E,San Diego|I-805 N,1
+Los Angeles|CA-110 N,Los Angeles|I-5 N,1
+San Bernardino|Barstow Fwy N,San Bernardino|CA-210 E,2
+Sacramento|CA-99 N,Sacramento|Capital City Fwy W,1
+Sacramento| Auburn Blvd,Sacramento|Roseville Rd,2
+Sacramento|I-5 N,Sacramento|I-80 W,2
+Los Angeles| S Western Ave,Los Angeles|Venice Blvd,1
+Fresno|CA-41,Fresno|CA-99 N,3
+San Diego|I-15,San Diego|I-15 N,31
+Los Angeles|Golden State Fwy N,Los Angeles|I-5 N,15
+Los Angeles|CA-134 W,Los Angeles|I-5,2
+Merced|CA-99,Merced|CA-99 S,15
+Sacramento|CA-99 S,Sacramento|Capital City Fwy W,2
+San Jose|Bayshore Fwy S,San Jose|Guadalupe Pkwy,2
+Long Beach|I-405,Long Beach|I-405 S,18
+Long Beach|I-405 N,Long Beach|San Diego Fwy S,18
+Riverside|CA-60 E,Riverside|I-215,11
+San Bernardino|CA-210,San Bernardino|CA-210 W,14
+Fresno|CA-180 E,Fresno|CA-41,1
+San Jose|Sinclair Fwy N,San Jose|US-101 N,2
+Sacramento|CA-16 E,Sacramento|I-80,2
+Santa Barbara|US-101,Santa Barbara|US-101 N,24
+San Diego|CA-15 S,San Diego|I-15 N,3
+San Diego|Escondido Fwy N,San Diego|I-8 W,1
+San Diego|CA-163 N,San Diego|I-15,2
+Fresno|CA-41 N,Fresno|CA-99 N,3
+San Diego|I-5,San Diego|San Diego Fwy S,24
+San Jose|Sinclair Fwy N,San Jose|US-101,2
+Oakland|I-880,Oakland|I-880 S,21
+Sacramento|CA-99 S,Sacramento|I-5 N,15
+San Diego|CA-163,San Diego|I-5 N,2
+San Jose|Guadalupe Pkwy,San Jose|Sinclair Fwy N,2
+Sacramento|Florin Rd,Sacramento|Stockton Blvd,1
+San Diego|I-805 S,San Diego|Kumeyaay Hwy,1
+Redlands|I-10 E,Redlands|I-10 W,21
+Ventura|El Camino Real N,Ventura|El Camino Real S,27
+San Diego|I-805 S,San Diego|San Diego Fwy S,1
+Los Angeles| S Alameda St,Los Angeles|S Central Ave,1
+San Jose|I-280 N,San Jose|US-101,1
+Escondido|Escondido Fwy N,Escondido|Escondido Fwy S,27
+Escondido|Escondido Fwy S,Escondido|I-15 N,22
+Corona|CA-91 W,Corona|I-15 N,2
+Corona|CA-91,Riverside|CA-91 W,1
+Riverside|CA-91 E,Riverside|Riverside Fwy E,24
+Los Angeles| S Central Ave,Los Angeles|S Central Ave,11
+Los Angeles|I-405,Los Angeles|I-405 N,17
+Los Angeles|E Washington Blvd,Los Angeles|I-5,2
+Bakersfield|Bakersfield Tehachapi Hwy,Bakersfield|CA-58 W,21
+San Jose|Bayshore Fwy N,San Jose|Bayshore Fwy S,25
+San Diego|CA-15 S,San Diego|Escondido Fwy N,6
+San Diego|CA-163,San Diego|I-805 N,1
+San Jose|CA-85 S,San Jose|Guadalupe Pkwy,1
+Corona|CA-91 E,Corona|I-15 N,5
+Corona|CA-91 W,Riverside|CA-91,1
+Riverside|I-215,Riverside|I-215 N,13
+Whittier|I-605,Whittier|I-605 N,10
+San Bernardino|Barstow Fwy N,San Bernardino|I-215 S,18
+San Jose|Guadalupe Pkwy,San Jose|US-101,2
+San Diego|I-5,San Diego|I-8 W,2
+San Jose|Bayshore Fwy N,San Jose|I-280 N,1
+Sacramento| Stockton Blvd,Sacramento|CA-16 W,1
+Corona|CA-91 E,Riverside|CA-91 E,1
+Los Angeles|I-10 W,Los Angeles|I-405 N,1
+Los Angeles|I-10 W,Los Angeles|I-5,1
+San Bernardino|I-215,San Bernardino|I-215 N,19
+Sacramento|CA-16 W,Sacramento|CA-99 N,2
+San Diego|CA-163 N,San Diego|I-5,2
+San Diego|I-5 S,San Diego|I-8 E,2
+San Diego|I-5 S,San Diego|Kumeyaay Hwy,2
+San Diego|I-15,San Diego|I-8 W,1
+Los Angeles|I-10 W,Los Angeles|S Central Ave,1
+Los Angeles|E Washington Blvd,Los Angeles|I-10 W,1
+Los Angeles|E Washington Blvd,Los Angeles|I-5 S,2
+Sacramento| Stockton Blvd,Sacramento|CA-99 S,3
+Sacramento|CA-99 S,Sacramento|I-80,2
+Sacramento|CA-99 N,Sacramento|I-5,2
+San Diego|I-5 N,San Diego|Kumeyaay Hwy,2
+Riverside|I-215 N,Riverside|Riverside Fwy E,1
+Los Angeles|E Washington Blvd,Los Angeles|I-10 E,1
+San Jose|I-280 N,San Jose|US-101 N,1
+San Diego|I-8 E,San Diego|I-8 W,21
+Anaheim|CA-91 W,Anaheim|Riverside Fwy E,28
+Los Angeles|I-405,Los Angeles|I-405 S,17
+Los Angeles|CA-110 N,Los Angeles|Golden State Fwy N,1
+San Jose|I-280 S,San Jose|US-101 N,2
+Oakland|I-880 N,Oakland|I-880 S,23
+Sacramento|CA-16 E,Sacramento|I-80 W,2
+San Diego|CA-163 N,San Diego|Escondido Fwy N,2
+Riverside|CA-60 W,Riverside|Riverside Fwy E,1
+Sacramento| Florin Rd,Sacramento|CA-99 S,2
+San Diego|I-5 N,San Diego|John J Montgomery Fwy S,13
+Long Beach|I-405,Long Beach|I-405 N,19
+Los Angeles|I-10 W,Los Angeles|I-405 S,1
+Fresno|CA-180,Fresno|CA-41,1
+San Jose|I-280 N,San Jose|I-280 S,16
+San Diego|CA-163 N,San Diego|I-5 S,2
+San Diego|CA-15 S,San Diego|Kumeyaay Hwy,1
+Sacramento|Stockton Blvd,Sacramento|US-50,1
+Sacramento|CA-16 E,Sacramento|Stockton Blvd,1
+San Diego|I-8 W,San Diego|I-805 S,1
+San Diego|I-5,San Diego|I-805 N,4
+Garden Grove|CA-22 W,Garden Grove|Garden Grove Fwy,15
+Anaheim|CA-91 E,Anaheim|CA-91 W,29
+Corona|CA-91,Riverside|CA-91,1
+San Bernardino|Barstow Fwy S,San Bernardino|I-215 N,16
+North Hollywood|CA-170 S,North Hollywood|Hollywood Fwy N,10
+Sacramento|CA-99 N,Sacramento|Stockton Blvd,3
+Sacramento|Auburn Blvd,Sacramento|Roseville Rd,2
+San Diego|I-5 N,San Diego|I-805,1
+Los Angeles| S Alameda St,Los Angeles|I-10 W,1
+San Diego|CA-163,San Diego|CA-163 N,18
+Escondido|Escondido Fwy S,Escondido|I-15,22
+Riverside|CA-91,Riverside|CA-91 E,24
+Los Angeles|I-405 N,Los Angeles|I-405 S,18
+San Bernardino|CA-210 W,San Bernardino|I-215 N,2
+Fairfield|I-80,Fairfield|I-80 W,21
+Sacramento|CA-16 E,Sacramento|I-5 N,21
+Escondido|I-15 N,San Diego|Escondido Fwy N,1
+Escondido|I-15 N,San Diego|Escondido Fwy S,1
+Riverside|CA-60 W,Riverside|CA-91,1
+San Diego|I-5,San Diego|I-5 S,39
+Fresno|CA-180 E,Fresno|CA-99,2
+Santa Rosa|Redwood Hwy N,Santa Rosa|Redwood Hwy S,19
+Sacramento|CA-99,Sacramento|Capital City Fwy E,1
+San Diego|CA-163 N,San Diego|I-8 W,1
+San Diego|I-5,San Diego|Kumeyaay Hwy,2
+Riverside|I-215 S,Riverside|Riverside Fwy E,1
+Riverside|CA-91 E,Riverside|I-215 S,2
+Fresno|CA-41,Fresno|CA-99,2
+San Diego|I-5 N,San Diego|San Diego Fwy S,27
+Salinas|El Camino Real,Salinas|El Camino Real N,12
+San Diego|CA-163 N,San Diego|Kumeyaay Hwy,1
+San Diego|Escondido Fwy N,San Diego|I-8 E,1
+San Jose|CA-85 S,San Jose|US-101,1
+San Diego|I-8 E,San Diego|I-805 S,1
+San Diego|CA-163 N,San Diego|I-805,2
+Riverside|CA-91 E,Riverside|CA-91 W,25
+Los Angeles|Hollywood Fwy S,Los Angeles|US-101,16
+Fresno|CA-99,Fresno|CA-99 N,28
+San Jose|CA-85 S,San Jose|Norman Y Mineta Hwy,21
+Merced|CA-99 N,Merced|CA-99 S,16
+Stockton|CA-4,Stockton|CA-99 N,2
+San Diego|I-5 S,San Diego|I-805,1
+Escondido|I-15 N,San Diego|I-15,1
+Riverside|CA-91,Riverside|I-215 N,2
+Los Angeles| S Central Ave,Los Angeles|E Washington Blvd,1

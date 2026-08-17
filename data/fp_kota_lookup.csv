@@ -1,0 +1,301 @@
+kota,negara_bagian,jumlah,lat,lng,timezone
+Miami,FL,186753,25.7737,-80.3191,US/Eastern
+Houston,TX,169415,29.744,-95.4125,US/Central
+Los Angeles,CA,156481,34.0336,-118.2692,US/Pacific
+Charlotte,NC,138340,35.2161,-80.8365,US/Eastern
+Dallas,TX,130298,32.7974,-96.8002,US/Central
+Orlando,FL,109660,28.4962,-81.4046,US/Eastern
+Austin,TX,96602,30.2869,-97.7356,US/Central
+Raleigh,NC,86061,35.8149,-78.6382,US/Eastern
+Nashville,TN,72664,36.1482,-86.7685,US/Central
+Baton Rouge,LA,71023,30.4337,-91.1184,US/Central
+Atlanta,GA,68152,33.7732,-84.3909,US/Eastern
+Sacramento,CA,66262,38.5684,-121.4291,US/Pacific
+San Diego,CA,55504,32.7731,-117.1335,US/Pacific
+Phoenix,AZ,53696,33.4802,-112.0996,US/Mountain
+Minneapolis,MN,51487,44.9667,-93.2913,US/Central
+Oklahoma City,OK,46092,35.4781,-97.5494,US/Central
+Richmond,VA,41946,37.5481,-77.4511,US/Eastern
+Jacksonville,FL,41529,30.312,-81.6458,US/Eastern
+Tucson,AZ,39298,32.2298,-110.9558,US/Mountain
+San Antonio,TX,37314,29.4656,-98.5002,US/Central
+Saint Paul,MN,37189,44.9563,-93.106,US/Central
+Seattle,WA,36557,47.607,-122.3234,US/Pacific
+Greenville,SC,35682,34.8356,-82.3729,US/Eastern
+Columbia,SC,35004,34.0651,-80.9737,US/Eastern
+Portland,OR,34752,45.5246,-122.6701,US/Pacific
+San Jose,CA,34529,37.3277,-121.892,US/Pacific
+Indianapolis,IN,33213,39.7891,-86.1433,US/Eastern
+Chicago,IL,32025,41.8711,-87.6514,US/Central
+Tampa,FL,31193,27.9922,-82.4538,US/Eastern
+Denver,CO,29657,39.7611,-104.9873,US/Mountain
+Tulsa,OK,28880,36.1137,-95.9174,US/Central
+Bronx,NY,27290,40.8403,-73.8905,US/Eastern
+New Orleans,LA,26840,29.9686,-90.0693,US/Pacific
+Riverside,CA,26317,33.9588,-117.3583,US/Pacific
+Fort Lauderdale,FL,26205,26.121,-80.1696,US/Eastern
+Rochester,NY,24742,43.1599,-77.62,US/Eastern
+Detroit,MI,24444,42.378,-83.0993,US/Eastern
+Grand Rapids,MI,24376,42.9577,-85.665,US/Eastern
+Kansas City,MO,23855,39.0947,-94.5543,US/Central
+Oakland,CA,23571,37.8003,-122.2385,US/Pacific
+Dayton,OH,23404,39.7579,-84.1995,US/Eastern
+San Bernardino,CA,21989,34.146,-117.3146,US/Pacific
+New York,NY,21664,40.7896,-73.9455,US/Eastern
+Omaha,NE,21555,41.2403,-96.024,US/Central
+Bakersfield,CA,21388,35.369,-119.0289,US/Pacific
+Brooklyn,NY,21334,40.6671,-73.9874,US/Eastern
+Anaheim,CA,21293,33.8535,-117.8757,US/Pacific
+Long Beach,CA,21039,33.8243,-118.193,US/Pacific
+Hialeah,FL,20843,25.9063,-80.323,US/Eastern
+Flint,MI,20649,43.0104,-83.7076,US/Eastern
+Salt Lake City,UT,20460,40.7132,-111.9031,US/Mountain
+Philadelphia,PA,20377,39.9771,-75.1657,US/Eastern
+Fort Worth,TX,19765,32.7466,-97.3174,US/Central
+Columbus,OH,19252,39.9764,-82.9853,US/Eastern
+Corona,CA,18953,33.8793,-117.547,US/Pacific
+Fort Myers,FL,18633,26.5472,-81.8392,US/Eastern
+Ontario,CA,18547,34.0674,-117.5868,US/Pacific
+Washington,DC,18414,38.8925,-77.009,US/Eastern
+San Francisco,CA,17773,37.7691,-122.4049,US/Pacific
+Fresno,CA,17184,36.7527,-119.7852,US/Pacific
+Saint Louis,MO,17039,38.6303,-90.3339,US/Central
+Birmingham,AL,16933,33.5018,-86.7893,US/Central
+Chattanooga,TN,16669,35.0268,-85.2527,US/Eastern
+Whittier,CA,16518,33.985,-118.054,US/Pacific
+Sarasota,FL,16246,27.3155,-82.4975,US/Eastern
+Memphis,TN,16245,35.1005,-89.9337,US/Central
+Louisville,KY,16221,38.2228,-85.7028,US/Eastern
+El Paso,TX,16038,31.7677,-106.3519,US/Mountain
+Spartanburg,SC,15748,34.9695,-81.9733,US/Eastern
+Bradenton,FL,15680,27.4478,-82.5428,US/Eastern
+Kissimmee,FL,15405,28.3191,-81.4795,US/Eastern
+Shreveport,LA,15161,32.4583,-93.761,US/Central
+Cincinnati,OH,14461,39.1769,-84.4849,US/Eastern
+Pittsburgh,PA,13918,40.4381,-79.9911,US/Eastern
+Saint Petersburg,FL,13793,27.8065,-82.6699,US/Eastern
+Pensacola,FL,13268,30.4806,-87.2573,US/Central
+Milwaukee,WI,13033,43.0322,-87.9609,US/Central
+Hayward,CA,12702,37.6488,-122.0987,US/Pacific
+Lancaster,PA,12555,40.0501,-76.3078,US/Eastern
+Norfolk,VA,12264,36.8749,-76.2555,US/Eastern
+Augusta,GA,12246,33.4652,-82.0328,US/Eastern
+Stockton,CA,11524,37.9636,-121.2757,US/Pacific
+York,PA,11438,39.9721,-76.724,US/Eastern
+Anderson,SC,10880,34.5213,-82.6775,US/Eastern
+Cleveland,OH,10689,41.4716,-81.6747,US/Eastern
+Baldwin Park,CA,10555,34.0702,-117.9814,US/Pacific
+Lafayette,LA,10465,30.2101,-92.028,US/Central
+Irvine,CA,10418,33.6722,-117.7752,US/Pacific
+Montgomery,AL,10373,32.3609,-86.244,US/Central
+Tracy,CA,10298,37.7422,-121.4796,US/Pacific
+Hollywood,FL,10287,26.0101,-80.1673,US/Eastern
+Henrico,VA,10284,37.6075,-77.531,US/Eastern
+West Palm Beach,FL,10169,26.7066,-80.0901,US/Eastern
+Pomona,CA,9706,34.0557,-117.7594,US/Pacific
+Myrtle Beach,SC,9701,33.7175,-78.9668,US/Eastern
+Fremont,CA,9664,37.516,-121.9435,US/Pacific
+Buffalo,NY,9573,42.9025,-78.7915,US/Eastern
+Tempe,AZ,9531,33.3928,-111.9263,US/Mountain
+Gardena,CA,9479,33.8727,-118.2855,US/Pacific
+Ocala,FL,9452,29.1501,-82.1828,US/Eastern
+Fontana,CA,9385,34.0905,-117.4806,US/Pacific
+Santa Ana,CA,9314,33.7548,-117.8571,US/Pacific
+Pasadena,CA,9245,34.1519,-118.1268,US/Pacific
+Clearwater,FL,9215,27.9606,-82.7343,US/Eastern
+Newark,NJ,9157,40.7229,-74.1606,US/Eastern
+Santa Rosa,CA,9116,38.4332,-122.7201,US/Pacific
+Sherman Oaks,CA,9108,34.1567,-118.468,US/Pacific
+Baltimore,MD,9074,39.2842,-76.5915,US/Eastern
+Greer,SC,8847,34.889,-82.2275,US/Eastern
+Fairfax,VA,8645,38.8667,-77.3138,US/Eastern
+Antioch,TN,8641,36.0461,-86.6505,US/Central
+Lexington,SC,8625,33.9714,-81.2224,US/Eastern
+Summerville,SC,8588,33.0378,-80.1666,Unknown
+Modesto,CA,8555,37.6383,-121.0026,US/Pacific
+Livermore,CA,8472,37.7034,-121.7284,US/Pacific
+North Miami,FL,8228,25.8902,-80.1865,US/Eastern
+Tacoma,WA,8210,47.2302,-122.4376,US/Pacific
+Huntsville,AL,8094,34.7317,-86.6005,US/Central
+Frederick,MD,8030,39.4009,-77.4099,US/Eastern
+Alexandria,VA,7962,38.802,-77.1135,US/Eastern
+Silver Spring,MD,7926,39.0187,-77.0166,US/Eastern
+Orange,CA,7877,33.7829,-117.8698,US/Pacific
+Downey,CA,7840,33.9409,-118.1093,US/Pacific
+Colorado Springs,CO,7820,38.8505,-104.7874,US/Mountain
+Providence,RI,7741,41.8217,-71.4154,US/Eastern
+Homestead,FL,7727,25.4995,-80.4367,US/Eastern
+Diamond Bar,CA,7694,34.0101,-117.8234,US/Pacific
+Springfield,MO,7686,37.1962,-93.2916,US/Central
+Florence,SC,7674,34.1942,-79.7704,US/Eastern
+Garner,NC,7621,35.6948,-78.5841,US/Eastern
+Rowland Heights,CA,7586,33.9933,-117.9039,US/Pacific
+Virginia Beach,VA,7575,36.837,-76.1371,US/Eastern
+Colton,CA,7513,34.0569,-117.3121,US/Pacific
+Inglewood,CA,7445,33.9413,-118.3683,US/Pacific
+Albany,NY,7403,42.6868,-73.7885,US/Eastern
+Salinas,CA,7356,36.6945,-121.6595,US/Pacific
+Fredericksburg,VA,7330,38.2965,-77.4993,US/Eastern
+Tallahassee,FL,7314,30.458,-84.2796,US/Eastern
+Ogden,UT,7274,41.2098,-111.9832,US/Mountain
+Chesapeake,VA,7244,36.7712,-76.2962,US/Eastern
+La Puente,CA,7212,34.0445,-118.0014,US/Pacific
+Decatur,GA,7163,33.7146,-84.2399,US/Eastern
+Reno,NV,7083,39.5293,-119.788,US/Pacific
+Albuquerque,NM,7074,35.1052,-106.6238,US/Mountain
+Fairfield,CA,7008,38.2434,-122.0867,US/Pacific
+Cerritos,CA,6943,33.8763,-118.0961,US/Pacific
+Compton,CA,6935,33.8889,-118.2155,US/Pacific
+San Leandro,CA,6898,37.7038,-122.1365,US/Pacific
+Mobile,AL,6895,30.6763,-88.1208,US/Central
+Sylmar,CA,6886,34.3063,-118.4778,US/Pacific
+Scottsdale,AZ,6879,33.5664,-111.8911,US/Mountain
+Los Gatos,CA,6877,37.1648,-121.9847,US/Pacific
+Redlands,CA,6857,34.0617,-117.1826,US/Pacific
+Woodbridge,VA,6794,38.6528,-77.2867,US/Eastern
+Arlington,VA,6784,38.87,-77.0701,US/Eastern
+Tuscaloosa,AL,6779,33.1755,-87.5332,US/Central
+Pompano Beach,FL,6757,26.26,-80.1364,US/Eastern
+Norristown,PA,6751,40.1274,-75.3512,US/Eastern
+Norwalk,CA,6607,33.9144,-118.1041,US/Pacific
+San Mateo,CA,6602,37.556,-122.2963,US/Pacific
+Escondido,CA,6572,33.1265,-117.1028,US/Pacific
+Mesquite,TX,6538,32.8036,-96.6265,US/Central
+Hacienda Heights,CA,6381,34.0067,-117.9644,US/Pacific
+Elgin,IL,6377,42.0397,-88.2946,US/Central
+Hartford,CT,6253,41.7663,-72.6687,US/Eastern
+Kansas City,KS,6246,39.0994,-94.6793,US/Central
+West Covina,CA,6203,34.072,-117.9075,US/Pacific
+Charleston,SC,6153,32.8944,-80.02,US/Eastern
+Moreno Valley,CA,6106,33.9393,-117.2363,US/Pacific
+Simpsonville,SC,6105,34.7572,-82.2573,US/Eastern
+Conway,SC,6026,33.8181,-79.0206,US/Eastern
+Fort Mill,SC,6025,35.0555,-80.9448,US/Eastern
+Knoxville,TN,6003,35.9607,-83.9724,US/Eastern
+Mesa,AZ,5994,33.3865,-111.7896,US/Mountain
+Glendale,AZ,5984,33.5673,-112.1868,US/Mountain
+North Hollywood,CA,5962,34.1572,-118.3807,US/Pacific
+Chandler,AZ,5902,33.2915,-111.881,US/Mountain
+Redwood City,CA,5872,37.4813,-122.229,US/Pacific
+Piedmont,SC,5865,34.7235,-82.4656,US/Eastern
+Boca Raton,FL,5837,26.3687,-80.1179,US/Eastern
+Staten Island,NY,5806,40.6068,-74.1319,US/Eastern
+Arlington,TX,5798,32.7065,-97.1072,US/Central
+Hyattsville,MD,5722,38.9454,-76.9301,US/Eastern
+Opa Locka,FL,5722,25.9095,-80.2579,US/Eastern
+Castro Valley,CA,5703,37.6952,-122.0687,US/Pacific
+Irving,TX,5683,32.8371,-96.9558,US/Central
+Flushing,NY,5662,40.7405,-73.8344,US/Eastern
+Springfield,VA,5647,38.7842,-77.185,US/Eastern
+Perris,CA,5630,33.8277,-117.2579,US/Pacific
+Garden Grove,CA,5565,33.768,-117.9371,US/Pacific
+Berkeley,CA,5562,37.8733,-122.3058,US/Pacific
+Richmond,CA,5510,37.928,-122.3248,US/Pacific
+Carson,CA,5509,33.8396,-118.2676,US/Pacific
+West Columbia,SC,5481,33.9504,-81.1066,US/Eastern
+Rancho Cucamonga,CA,5466,34.1349,-117.545,US/Pacific
+Torrance,CA,5465,33.8583,-118.3094,US/Pacific
+Tustin,CA,5454,33.735,-117.8335,US/Pacific
+Costa Mesa,CA,5413,33.6872,-117.8956,US/Pacific
+Syracuse,NY,5394,43.0553,-76.1472,US/Eastern
+Newhall,CA,5377,34.3622,-118.5057,US/Pacific
+Aurora,CO,5243,39.7075,-104.826,US/Mountain
+Vallejo,CA,5241,38.1095,-122.2299,US/Pacific
+Concord,CA,5198,37.9968,-122.0395,US/Pacific
+Mira Loma,CA,5186,34.018,-117.5501,US/Pacific
+Fort Lee,NJ,5174,40.8542,-73.9655,US/Eastern
+Burbank,CA,5164,34.1783,-118.3257,US/Pacific
+Pleasanton,CA,5123,37.6993,-121.8985,US/Pacific
+Riverview,FL,5108,27.8636,-82.3339,US/Eastern
+North Charleston,SC,5105,32.8722,-80.0118,US/Eastern
+Bethesda,MD,5067,39.0141,-77.1244,US/Eastern
+Lexington,KY,5051,38.0293,-84.4959,US/Eastern
+Fallbrook,CA,5046,33.3739,-117.1749,US/Pacific
+Madera,CA,5039,36.942,-120.0291,US/Pacific
+Madison,TN,5036,36.2633,-86.7134,US/Central
+Wilmington,DE,5028,39.7469,-75.5547,US/Eastern
+Winter Park,FL,5026,28.6011,-81.3094,US/Eastern
+Chino,CA,5023,34.0301,-117.702,US/Pacific
+Petaluma,CA,5011,38.2457,-122.6278,US/Pacific
+Napa,CA,4945,38.2819,-122.2742,US/Pacific
+Boston,MA,4866,42.3497,-71.062,US/Eastern
+Manassas,VA,4839,38.7963,-77.5189,US/Eastern
+West Valley City,UT,4798,40.7179,-111.977,US/Mountain
+Orangeburg,SC,4791,33.5116,-80.8384,US/Eastern
+Glendora,CA,4767,34.1198,-117.8463,US/Pacific
+Jamaica,NY,4764,40.683,-73.8018,US/Eastern
+Salem,OR,4755,44.9449,-122.9912,US/Pacific
+Santa Fe Springs,CA,4742,33.9412,-118.0873,US/Pacific
+Visalia,CA,4737,36.3273,-119.3136,US/Pacific
+Pacoima,CA,4716,34.2565,-118.4259,US/Pacific
+Bloomington,CA,4712,34.0679,-117.3964,US/Pacific
+North Miami Beach,FL,4691,25.9271,-80.154,US/Eastern
+Santa Barbara,CA,4683,34.4341,-119.7378,US/Pacific
+Walnut Creek,CA,4665,37.9055,-122.0636,US/Pacific
+Palm Harbor,FL,4652,28.0712,-82.739,US/Eastern
+Centreville,VA,4615,38.8397,-77.437,US/Eastern
+Palmdale,CA,4611,34.5799,-118.1186,US/Pacific
+Newport News,VA,4602,37.09,-76.4724,US/Eastern
+Greensboro,NC,4582,36.0554,-79.8055,US/Eastern
+Ventura,CA,4582,34.2803,-119.28,US/Pacific
+Temecula,CA,4578,33.4977,-117.1485,US/Pacific
+Culver City,CA,4575,33.9934,-118.4037,US/Pacific
+Durham,NC,4573,35.9452,-78.8757,US/Eastern
+Yonkers,NY,4571,40.9347,-73.8583,US/Eastern
+Harrisburg,PA,4568,40.2755,-76.8257,US/Eastern
+Lynwood,CA,4564,33.9247,-118.1979,US/Pacific
+Azusa,CA,4548,34.1211,-117.9075,US/Pacific
+Marietta,GA,4503,33.9463,-84.5164,US/Eastern
+Glendale,CA,4498,34.1563,-118.258,US/Pacific
+Asheville,NC,4486,35.5594,-82.5788,US/Eastern
+Van Nuys,CA,4471,34.1895,-118.4734,US/Pacific
+Hawthorne,CA,4428,33.917,-118.3685,US/Pacific
+Pendleton,OR,4401,45.5945,-118.6227,US/Pacific
+Bend,OR,4384,44.0675,-121.3065,US/Pacific
+Little Rock,AR,4373,34.7314,-92.3411,US/Central
+Lorton,VA,4364,38.7054,-77.224,US/Eastern
+Hesperia,CA,4341,34.3867,-117.4012,US/Pacific
+Lehigh Acres,FL,4300,26.6145,-81.6792,US/Eastern
+Des Moines,IA,4300,41.6042,-93.6145,US/Central
+Grand Prairie,TX,4256,32.7061,-97.0239,US/Central
+Akron,OH,4251,41.0617,-81.5055,US/Eastern
+Emeryville,CA,4249,37.8374,-122.2965,US/Pacific
+El Monte,CA,4232,34.0684,-118.0376,US/Pacific
+Pittsburg,CA,4231,38.0188,-121.9373,US/Pacific
+Jersey City,NJ,4209,40.732,-74.0641,US/Eastern
+Melbourne,FL,4191,28.1591,-80.7047,US/Eastern
+Eugene,OR,4188,44.0646,-123.0979,US/Pacific
+Manor,TX,4169,30.3491,-97.5466,US/Central
+New Port Richey,FL,4157,28.2181,-82.6745,US/Eastern
+Cary,NC,4124,35.7802,-78.7801,US/Eastern
+Grand Blanc,MI,4113,42.9202,-83.6392,US/Eastern
+Gaffney,SC,4106,35.0843,-81.673,US/Eastern
+Elk Grove,CA,4104,38.4092,-121.3995,US/Pacific
+Hampton,VA,4084,37.0319,-76.3712,US/Eastern
+Mountain View,CA,4076,37.407,-122.0687,US/Pacific
+Tyler,TX,4055,32.3324,-95.3023,US/Central
+Bellevue,WA,4039,47.5993,-122.1836,US/Pacific
+Taylors,SC,4038,34.9173,-82.3169,US/Eastern
+Falls Church,VA,4035,38.8793,-77.2174,US/Eastern
+Sterling,VA,4034,39.0068,-77.4214,US/Eastern
+Roseville,CA,3977,38.758,-121.2706,US/Pacific
+Sun Valley,CA,3975,34.2266,-118.376,US/Pacific
+Buena Park,CA,3971,33.8568,-118.0038,US/Pacific
+Boiling Springs,SC,3968,35.029,-81.9756,US/Eastern
+Stafford,VA,3963,38.4643,-77.4083,US/Eastern
+Bonita Springs,FL,3942,26.332,-81.7981,US/Eastern
+Pottstown,PA,3938,40.2449,-75.641,US/Eastern
+Pflugerville,TX,3917,30.4438,-97.6599,US/Central
+Conshohocken,PA,3911,40.0688,-75.3127,US/Eastern
+Westminster,CA,3907,33.7558,-118.0075,US/Pacific
+Martinez,CA,3900,37.9958,-122.1005,US/Pacific
+Santa Cruz,CA,3899,36.9874,-122.0035,US/Pacific
+Lake Worth,FL,3896,26.6086,-80.0693,US/Eastern
+Renton,WA,3875,47.4683,-122.2125,US/Pacific
+Encino,CA,3875,34.1705,-118.4977,US/Pacific
+Easley,SC,3854,34.8295,-82.552,US/Eastern
+San Dimas,CA,3848,34.0743,-117.8109,US/Pacific
+Huntersville,NC,3838,35.4097,-80.8575,US/Eastern
+Carlsbad,CA,3781,33.1444,-117.3279,US/Pacific
+San Rafael,CA,3769,37.9898,-122.5252,US/Pacific
+Murrieta,CA,3767,33.5644,-117.1773,US/Pacific
