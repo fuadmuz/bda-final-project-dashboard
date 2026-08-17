@@ -14,6 +14,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
+VERSI = "1.2"   # penanda untuk memastikan kode terbaru benar-benar tayang
+
 AKAR = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(AKAR, "data")
 
@@ -35,11 +37,7 @@ st.markdown("""
 <style>
   .block-container {padding-top: 2rem; padding-bottom: 2rem;}
   div[data-testid="stMetricValue"] {font-size: 1.9rem;}
-  /* Warna teks ditetapkan eksplisit agar tetap terbaca pada tema gelap maupun terang */
-  .insight {background:#EAF2F8 !important; border-left:5px solid #065A82;
-            padding:0.9rem 1.1rem; border-radius:6px; margin:0.6rem 0 1.2rem 0;
-            color:#1A2A33 !important; font-size:0.95rem; line-height:1.6;}
-  .insight b, .insight i {color:#065A82 !important;}
+  div[data-testid="stAlertContainer"] {font-size:0.95rem; line-height:1.6;}
 </style>
 """, unsafe_allow_html=True)
 
@@ -111,7 +109,12 @@ def persen(x, d=1):
 
 
 def kotak_insight(judul, isi):
-    st.markdown(f'<div class="insight"><b>{judul}</b><br>{isi}</div>', unsafe_allow_html=True)
+    """Kotak insight memakai komponen bawaan Streamlit agar warnanya selalu
+    menyesuaikan tema gelap maupun terang (HTML kustom bisa tidak terbaca)."""
+    md = (isi.replace("<br><br>", "\n\n").replace("<br>", "\n\n")
+             .replace("<b>", "**").replace("</b>", "**")
+             .replace("<i>", "*").replace("</i>", "*"))
+    st.info(f"**{judul}**\n\n{md}")
 
 
 # --------------------------------------------------------------------------
@@ -135,6 +138,7 @@ with st.sidebar:
         "Sumber: [US Accidents (Kaggle)]"
         "(https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents) — "
         "Moosavi et al. (2019), lisensi CC BY-NC-SA 4.0.")
+    st.caption(f"versi aplikasi {VERSI}")
 
 
 # ==========================================================================
