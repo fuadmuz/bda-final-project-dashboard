@@ -14,7 +14,16 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
+AKAR = os.path.dirname(os.path.abspath(__file__))
+DATA = os.path.join(AKAR, "data")
+
+BERKAS_WAJIB = [
+    "fp_ringkasan.json", "fp_model_meta.json", "fp_model.joblib",
+    "fp_agg_tahun.csv", "fp_agg_bulan.csv", "fp_agg_jam.csv", "fp_agg_hari.csv",
+    "fp_agg_cuaca.csv", "fp_agg_state.csv", "fp_agg_severity.csv", "fp_agg_jam_state.csv",
+    "fp_hotspot.csv", "fp_kota_lookup.csv", "fp_graph_nodes.csv", "fp_graph_edges.csv",
+    "fp_graph_komunitas.csv", "fp_model_roc.csv", "fp_model_threshold.csv",
+]
 
 BIRU, TEAL, ORANYE, MERAH, ABU = "#065A82", "#1C7293", "#F98D3C", "#C62828", "#5A6B75"
 SKALA = [[0.0, "#DCE9F2"], [0.35, "#7FB3D5"], [0.7, "#1C7293"], [1.0, "#0B3C55"]]
@@ -26,9 +35,11 @@ st.markdown("""
 <style>
   .block-container {padding-top: 2rem; padding-bottom: 2rem;}
   div[data-testid="stMetricValue"] {font-size: 1.9rem;}
-  .insight {background:#EAF2F8; border-left:5px solid #065A82;
-            padding:0.9rem 1.1rem; border-radius:6px; margin:0.6rem 0 1.2rem 0;}
-  .insight b {color:#065A82;}
+  /* Warna teks ditetapkan eksplisit agar tetap terbaca pada tema gelap maupun terang */
+  .insight {background:#EAF2F8 !important; border-left:5px solid #065A82;
+            padding:0.9rem 1.1rem; border-radius:6px; margin:0.6rem 0 1.2rem 0;
+            color:#1A2A33 !important; font-size:0.95rem; line-height:1.6;}
+  .insight b, .insight i {color:#065A82 !important;}
 </style>
 """, unsafe_allow_html=True)
 
@@ -52,6 +63,35 @@ def muat_model():
     return joblib.load(os.path.join(DATA, "fp_model.joblib"))
 
 
+def periksa_data():
+    """Memberi pesan yang jelas bila berkas data belum lengkap di repo."""
+    ada_folder = os.path.isdir(DATA)
+    isi = sorted(os.listdir(DATA)) if ada_folder else []
+    kurang = [f for f in BERKAS_WAJIB if f not in isi]
+    if ada_folder and not kurang:
+        return
+
+    st.error("### Berkas data belum lengkap")
+    if not ada_folder:
+        st.markdown(
+            f"Folder **`data/`** tidak ditemukan di samping `app.py`.\n\n"
+            f"Isi folder aplikasi saat ini: `{sorted(os.listdir(AKAR))}`")
+    else:
+        st.markdown(f"Folder `data/` ada, tetapi **{len(kurang)} berkas** belum terunggah:")
+        st.code("\n".join(kurang))
+        st.caption(f"Yang sudah ada ({len(isi)}): {', '.join(isi) if isi else '(kosong)'}")
+
+    st.markdown(
+        "**Cara memperbaiki di GitHub:**\n"
+        "1. Buka repo → **Add file** → **Upload files**\n"
+        "2. Seret **folder `data`** dari komputer (folder utuh, bukan berkasnya satu per satu)\n"
+        "3. Klik **Commit changes**, lalu tunggu aplikasi ini memuat ulang sendiri\n\n"
+        "Struktur yang benar di akar repo: `app.py`, `requirements.txt`, `README.md`, "
+        "dan folder `data/` berisi 18 berkas.")
+    st.stop()
+
+
+periksa_data()
 RINGKAS = muat_json("fp_ringkasan.json")
 META = muat_json("fp_model_meta.json")
 
